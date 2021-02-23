@@ -1636,10 +1636,10 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption h6 {
      color: #9FE2BF;
-     font-size: 35px;
-     line-height: 40px;
+     font-size: 30px;
+     line-height: 32px;
      font-weight: lighter;
-     font-family: Dynalight;
+     font-family: italics;
 }
 
 .banner-main .carousel-caption p {

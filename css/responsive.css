@@ -224,7 +224,7 @@ ul.social_icon li a {
     .img-box {display: none;} 
 
 .logo {float: inherit; padding-bottom: 0px; text-align: left;}
-.logo h1 {font-size: 1.5em;}
+.logo h1 {font-size: 1.7em;font-weight: 700 !important;margin-top: 10px;}
 .relative {margin-top: 0px;}
 .relative p{font-size:14px !important;}
 ul.social_icon li a {
@@ -269,6 +269,7 @@ ul.link li {
 }
 .copyright {
     margin-top: 0px;
+    font-size: 0.8em !important;
 }
 
 }
