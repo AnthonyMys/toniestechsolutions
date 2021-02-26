@@ -434,7 +434,7 @@ a.readmore_bt {
 .header {
      font-family: poppins;
      padding: 10px 0px;
-     background: url(../images/header.png);
+     background: url(../images/redheader.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      height: 100px;
@@ -484,7 +484,7 @@ ul.top_icon li a {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-     color: red;
+     color: #2874A6;
 }
 
 .menu-area-main li.active a {
@@ -493,7 +493,7 @@ ul.top_icon li a {
 
 .carousel-item{
      width: 100%
-     height:400px;
+     height:450px;
 }
 .carousel-item img{
      background-size: cover;
@@ -1587,7 +1587,7 @@ input[type="radio"] .styled:checked+label::after {
      background: #ff0000;
      width: 110%;
      height: 45px;
-     margin-top: -8px;
+     margin-top: 8px;
      position: relative;}
 .location_icon_bottum::before {
      position: absolute;
@@ -1598,12 +1598,12 @@ input[type="radio"] .styled:checked+label::after {
      width: 45px;
      height: 45px;
      background-repeat: no-repeat;
-     left: -38px;;
+     left: -40px;
 }
 .location_icon_bottum a {
      display: inline-block;
      padding: 10px 8px;
-     color: #fff;
+     color: #D5DBDB;
      font-size: 15px;
      font-weight: 500;
 }
